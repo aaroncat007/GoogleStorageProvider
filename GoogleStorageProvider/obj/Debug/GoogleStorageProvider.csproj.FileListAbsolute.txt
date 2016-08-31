@@ -1,0 +1,2 @@
+C:\Users\Aaron\Desktop\GoogleStorageProvider-master\obj\Debug\GoogleStorageProvider.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\GoogleStorageProvider-master\GoogleStorageProvider\obj\Debug\GoogleStorageProvider.csprojResolveAssemblyReference.cache
